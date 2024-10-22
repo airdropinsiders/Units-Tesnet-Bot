@@ -41,7 +41,7 @@ Need help? Join Here !!
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/vinskasenda/Units-Testnet-Bot.git && cd Units-Testnet-Bot
+   git clone https://github.com/vinskasenda/Units-Tesnet-Bot.git && cd Units-Tesnet-Bot
    ```
 2. Run
    ```
@@ -68,7 +68,7 @@ Need help? Join Here !!
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/vinskasenda/Units-Testnet-Bot.git && cd cd Units-Testnet-Bot
+   git clone https://github.com/vinskasenda/Units-Tesnet-Bot.git && cd cd Units-Tesnet-Bot
    ```
 3. Run 
    ```
